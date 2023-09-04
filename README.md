@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EpicMandM
 - 👀 I’m interested in playing guitar and programming
-- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 epicmand.mi@gmail.com
 
